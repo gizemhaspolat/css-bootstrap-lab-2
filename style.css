@@ -1,0 +1,62 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.navbar {
+  background-color: #37517e;
+}
+.container-fluid .navbar-brand {
+  color: rgb(230, 226, 226);
+  font-weight: bold;
+  font-size: 2em;
+  margin-left: 12%;
+}
+#navbarNav {
+  margin-right: 12%;
+}
+
+.nav-item a {
+  color: rgb(230, 226, 226);
+}
+
+.nav-final a {
+  color: rgb(230, 226, 226);
+  border: 1px solid #47b2e4;
+  border-radius: 22px;
+}
+.nav-final a:hover {
+  color: rgb(230, 226, 226);
+  cursor: pointer;
+}
+
+.col h1 {
+  color: rgb(230, 226, 226);
+  font-size: 2.5em;
+  font-weight: bold;
+}
+.col p {
+  color: rgb(191, 191, 191);
+  font-size: 1.2em;
+  font-weight: 300;
+}
+
+h5 {
+  color: #37639d;
+}
+h2 {
+  color: #37517e;
+}
+#officePng {
+  width: 100%;
+  height: auto;
+}
+#main-button {
+  background-color: #47b2e4;
+  color: #f0f2f5;
+  cursor: pointer;
+  font-size: 18px;
+  text-align: center;
+  border: none;
+  border-radius: 26px;
+  margin: 8px 6px;
+  padding: 8px 16px;
+}
